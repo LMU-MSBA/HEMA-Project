@@ -21,10 +21,10 @@ Increase Customer Engagement Metrics
 # Assess Situation
 ### Inventory of Resources
 Personnel
-- Michelle: data analyst $130K
-- Herat: data engineer $150K
-- Efren: data scientist $135K
-- Andrea: data scientist $180K
+- Michelle: data analyst
+- Herat: data engineer
+- Efren: data scientist
+- Andrea: data scientist
 
 Data: From Kaggle
 
@@ -51,9 +51,8 @@ Constraints
 ### Risks and Contingencies
 Model uncertainty
 
-Risk: Predictive models may not accurately forecast churn or identify effective preventive measures due to inherent uncertainties in subscriber behavior.
-
-Contingency: Employ ensemble modeling techniques to combine multiple algorithms and mitigate model variability. Conduct thorough sensitivity analyses to assess the robustness of predictions under different scenarios.
+- Risk: Predictive models may not accurately forecast churn or identify effective preventive measures due to inherent uncertainties in subscriber behavior.
+- Contingency: Employ ensemble modeling techniques to combine multiple algorithms and mitigate model variability. Conduct thorough sensitivity analyses to assess the robustness of predictions under different scenarios.
 ### Terminology
 - Customer churn: the rate at which customers stop doing business with a company over a specific period. Results in loss of revenue and potential decline in customer base. Results from dissatisfaction with products or services, competitive offerings, or changes in customer circumstances.
 - OKR (Objectives and Key Results): goal-setting framework to align with strategic business objectives
@@ -61,14 +60,18 @@ Contingency: Employ ensemble modeling techniques to combine multiple algorithms 
 - Customer retention: ability of a business to retain its existing customers over time. Implement strategies and initiatives to build long-term relationships with customers, increase their loyalty, and encourage repeat purchases or renewals. Essential for sustaining revenue growth, maximizing customer lifetime value, and reducing the need for costly acquisition efforts.
 ### Costs and Benefits
 Costs (typical hourly rate * expected hours required to complete the project)
-- $63/hour data engineer * _ hours
-- $60/hour data scientist * _ hours
-- $60/hour data scientist * _ hours
-- $40/hour data analyst * _ hours
-- Total cost = $
 
-Benefits based on the Data Periodic Table's Business Activity Categories. Try to quantify as best as you can, i.e. for labor hours saved. If you cannot quantify the benefit, still identify the benefit.
-Better customer understanding and lower churn rates
+Approximately 15 weeks -> 5 days a week -> 8 hours a day -> 600 hours
+- $63/hour data engineer * 600 hours
+- $60/hour data scientist * 600 hours
+- $60/hour data scientist * 600 hours
+- $40/hour data analyst * 600 hours
+- Total cost = $37,800 + $36,000 + $36,000 + $24,000 = $133,800
+
+Benefits
+- Improved customer experience
+- Optimized marketing efforts
+- Improved customer retention
 # Determine Data Mining Goals
 ### Data Activities
 - Increased understanding and insight of customers
@@ -79,11 +82,9 @@ Better customer understanding and lower churn rates
 Reduce churn by 20% among identified at-risk subscribers
 # Produce Project Plan
 ### Initial Assessment of Tools (Technology) and Techniques (Analytics)
-Data: collect and preprocess data
-
-Model: experiment with various models, select, train, evaluate, deploy
-
-Tools and libraries: Python, Scikit-learn, PyTorch
+- Data: collect and preprocess data
+- Model: experiment with various models, select, train, evaluate, deploy
+- Tools and libraries: Python, Scikit-learn, PyTorch
 ### Data Toolkit Items
 - Tableau dashboards
 - MySQL
@@ -92,16 +93,8 @@ Tools and libraries: Python, Scikit-learn, PyTorch
 ### Project Plan
 | Step | Description | Timeline |
 | ---- | ---- | ---- |
-| Data collection and preprocessing | Gather data sets, clean | 1-2 weeks |
+| Business and data understanding | Define business question, data exploration | 3-4 weeks |
+| Data preparation | Data cleaning, feature engineering, integration | 3-4 weeks |
 | Model development and training | Experiment, split into training and test data | 3-6 weeks |
-| Review automation development and integration | <ul><li>Design user interface</li><li>Integrate model with backend logic</li></ul> | 2-4 weeks |
 | Testing and deployment | <ul><li>Unit, integration, and performance testing</li><li>Suitable hosting environment</li></ul> | 2-3 weeks |
-| Documentation, maintenance, and optimization | <ul><li>Record workflow, architecture, and codebase</li><li>Monitor model performance</li><li>Update data, future iterations</li></ul> | Ongoing|
-
-1. Find data to answer a business question
-2. Create data dictionary
-3. Create data governance policy
-4. Create analytics-ready data
-5. ETL into MySQL
-6. Create Tableau visualizations and dashboards
-7. 
+| Documentation, maintenance, and optimization | <ul><li>Record workflow, architecture, and codebase</li><li>Monitor model performance</li><li>Update data, future iterations</li></ul> | Ongoing |
