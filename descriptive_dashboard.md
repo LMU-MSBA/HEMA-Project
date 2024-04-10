@@ -25,10 +25,9 @@ Revising contract terms to encourage longer customer tenure.
 
 ### Access
 The dashboard is publicly available on Tableau Public
-https://public.tableau.com/app/profile/andrea.lopez2744/viz/HEMA_6080_Project/Dashboard1
+https://public.tableau.com/app/profile/herat.devisha/viz/HEMA_6080_Project_17127699487080/ChurnAndTenure?publish=yes
 
 ### Data Source(s)
-https://public.tableau.com/app/profile/andrea.lopez2744/viz/HEMA_6080_Project/Dashboard1
 KAGGLE 
 https://www.kaggle.com/code/bhartiprasad17/customer-churn-prediction 
 
