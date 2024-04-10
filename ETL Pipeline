@@ -1,0 +1,5 @@
+1. Extract: The first stage, indicates the extraction phase where data is gathered from various sources. In this case, the data is being sourced from Kaggle, a platform for predictive modelling and analytics competitions, as well as from HTML input, which occurs when a new customer is added via an HTML page.
+
+2. Transform: The second stage, signifies the transformation phase of the pipeline. This is where data from the previous step is cleansed, enriched, processed, or transformed into a desired format or structure. We used "LMU Build" to store our data and that will serve as an datawarehouse/database.
+
+3. Load: The final stage is the load phase, where the transformed data is loaded into Tableau Desktop for further analysis, reporting, or visualization. Tableau Desktop is a data visualization tool, and in this context, it is the endpoint of the ETL pipeline, where the data becomes available for business intelligence or visual analytics.
