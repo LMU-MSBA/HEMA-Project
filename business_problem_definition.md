@@ -1,8 +1,8 @@
 # Determine Business Objectives
 ### Background
-We want to better understand subscriber behavior to give us insights on customer churn and ways to prevent it from happening. 
-### Business Activity Category
+Our goal is to deeply understand subscriber behavior to anticipate and mitigate customer churn, envisioning a future where customer retention strategies are proactive, personalized, and effective in maintaining a loyal subscriber base."### Business Activity Category
 We will focus on increasing revenue by improving customer retention (A06) and improving customer knowledge (A30). This will help to increase sales overall.
+
 ### OKR (Objectives and Key Results)
 Objective: improve customer retention and knowledge
 
