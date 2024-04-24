@@ -20,7 +20,7 @@ Continuous Testing Cycle: Instead of setting a start and end date, our A/B testi
 
 ## Implementation Plan
 ### Technical and Platform Requirements
-Real-time Data Processing: Using tools like Apache Kafka, we process data as it comes, making decisions at lightning speed.
+Real-time Data Processing: Using tools like machine learning, python, Alteryx, and Tableau Pre to process data as it comes, making decisions fast and efficiently. Thus, providing visuals for better analytics insights.
 
 Automation and Integration: Everything is automated. Updates based on test results are pushed live without any manual intervention, seamlessly integrated into our ongoing operations.
 
