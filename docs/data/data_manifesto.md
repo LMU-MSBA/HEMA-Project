@@ -1,4 +1,4 @@
-## Core Principles of the Data Manifesto
+## Data Manifesto
 ### Commitment to Data Literacy:
 What it means: At HEMA's Project, we're committed to enhancing data literacy throughout our organization. Through workshops and webinars, we'll ensure every team member can confidently understand, interpret, and engage with data, empowering informed decision-making.
 
