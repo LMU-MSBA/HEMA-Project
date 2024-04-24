@@ -1,5 +1,5 @@
 # Key Performance Metric for User Engagement
-### Churn Rate: Imagine having a dashboard that updates every moment, showing how tweaks to our platform keep more subscribers around longer. We aim to use such advanced predictive models to continually adjust our strategies and directly improve customer retention in real-time.
+## Churn Rate: Imagine having a dashboard that updates every moment, showing how tweaks to our platform keep more subscribers around longer. We aim to use such advanced predictive models to continually adjust our strategies and directly improve customer retention in real-time.
 
 ## Hypotheses for A/B Testing
 Null Hypothesis (H0): Even with our quick updates based on new insights, we might not see an immediate decrease in churn rates compared to our usual platform model.
