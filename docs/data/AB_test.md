@@ -3,6 +3,7 @@
 
 ## Hypotheses for A/B Testing
 Null Hypothesis (H0): Even with our quick updates based on new insights, we might not see an immediate decrease in churn rates compared to our usual platform model.
+
 Alternative Hypothesis (H1): Our hypothesis is that by applying what we learn instantly, we can significantly reduce churn rates, proving that quick, data-driven changes really do make a difference.
 
 ## Experimental Design
