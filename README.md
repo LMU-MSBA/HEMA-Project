@@ -22,7 +22,7 @@ Analytics
 - data analysis
 
 Technology
-- programming languages (R, Python, SAS, SQL)
+- programming languages (R, Python, SQL)
 - analytics tools (Tableau)
 
 ### Analytics Maturity Scale
