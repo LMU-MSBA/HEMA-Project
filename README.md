@@ -45,3 +45,6 @@ Realize: operationalizes analytics and realizes tangible business value from dat
 Differentiate: organizations achieve a competitive advantage through advanced analytics and innovation
 - Personalization Engine: Implement a personalized recommendation engine that dynamically tailors retention strategies and offers based on individual subscriber preferences and behavior.
 - Automated Decision Systems: Develop automated decision-making systems that can detect early indicators of churn and trigger personalized interventions in real-time to prevent customer attrition.
+
+#### Link to job post
+https://www.google.com/search?q=data+analyst+jobs,+disney+direct+to+consumer&rlz=1C5CHFA_enUS890US890&oq=data+analyst+jobs,+disney+direct+to+consumer&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigAdIBCDU2NjBqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwiOnIuSw-OFAxWGKEQIHfsrBpsQkd0GegQIFxAB#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+jobs,+disney+direct+to+consumer&htidocid=P0vsaeLLiYFtCexQAAAAAA%3D%3D&sxsrf=ACQVn0_86OJHqbZ7RxoGaelvdumqn9NJ-A:1714259730031
